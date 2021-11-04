@@ -40,17 +40,17 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 
 ## Contributors
 <details>
-| Tasks                | Contributors |
-| :---                 |    :----:   |
-| Topic Selection      | Stephen Chen, Richard Liu       |
-| Datasets searching   | Stephen Chen(Breast Cancer Locolization), Richard Liu(IDC)|
-| CNN Design (Tumor Identification)  | Kevin Li, Stephen Chen, Richard Liu |
-| CNN Design (Tumor Locolization)  | Richard Liu |
-| Algorithm Optimization(Parameter)  | Stephen Chen, Richard Liu, Kevin Li |
-| Algorithm Optimization(Code)  | Stephen Chen, Richard Liu, Kevin Li |
-| Vitualization  | Stephen Chen |	
-| Vitualization  | Stephen Chen |	
-![image](https://user-images.githubusercontent.com/31975605/140238352-a55b3119-5172-4853-a643-4450694105a3.png)
+  
+  | Tasks                | Contributors |
+  | :---                 |    :----:   |
+  | Topic Selection      | Stephen Chen, Richard Liu       |
+  | Datasets searching   | Stephen Chen(Breast Cancer Locolization), Richard Liu(IDC)|
+  | CNN Design (Tumor Identification)  | Kevin Li, Stephen Chen, Richard Liu |
+  | CNN Design (Tumor Locolization)  | Richard Liu |
+  | Algorithm Optimization(Parameter)  | Stephen Chen, Richard Liu, Kevin Li |
+  | Algorithm Optimization(Code)  | Stephen Chen, Richard Liu, Kevin Li |
+  | Vitualization  | Stephen Chen |	
+  | Vitualization  | Stephen Chen |	
 
 
 </details>
