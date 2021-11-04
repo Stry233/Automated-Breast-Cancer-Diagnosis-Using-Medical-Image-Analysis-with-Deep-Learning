@@ -39,7 +39,6 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 
 
 ## Contributors
-<details>
   
   | Tasks                | Contributors |
   | :---                 |    :----:   |
@@ -52,8 +51,6 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
   | Vitualization  | Stephen Chen |	
   | Vitualization  | Stephen Chen |	
 
-
-</details>
 <span id="nav-4"></span>
 
 ## Special Thanks
