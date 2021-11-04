@@ -4,7 +4,7 @@
   <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Stars" src="https://img.shields.io/github/stars/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
   <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Language Use" src="https://img.shields.io/github/languages/count/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
 </p>
-This project(with thesis published soon) investigates and summarizes the superiority and limitations of different dimensionality reduction schemes as well as classification methods in specific single-cell RNA sequencing (scRNA-seq) data sets. 
+ 
 
 ## Table of Contents
 
@@ -57,8 +57,7 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 <span id="nav-4"></span>
 
 ## Special Thanks
-<!-- Fill in the list of special thanks here, which can be anything or a person. -->
-This research was undertaken as part of the CIS - Introduction to Machine Learning "Our Body" Project. Thanks to Prof. Ziv Bar-Joseph for his guidance and instruction in dataset pre-processing and paper refinement.
+
 <span id="nav-5"></span>
 
 ## License
