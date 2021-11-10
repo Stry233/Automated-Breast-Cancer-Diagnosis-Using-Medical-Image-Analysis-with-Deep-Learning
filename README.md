@@ -43,6 +43,7 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 
 ## Data availability
 1. The **Bre**ast **Ca**ncer **H**istopathological **A**nnotation and **D**iagnosis dataset (BreCaHAD)
+
   | Types                           | # of Annotations                                              |
   | :---                               |    :----:                                                 |
   | Mitosis                    | 115                                 |
