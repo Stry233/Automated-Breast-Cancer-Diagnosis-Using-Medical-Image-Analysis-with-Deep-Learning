@@ -2,7 +2,6 @@
 This is an archive of image recognition and classification tasks from 2018
 <p align="center">
   <a href="https://github.com/Stry233/Automated-Breast-Cancer-Diagnosis-Using-Medical-Image-Analysis-with-Deep-Learning/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Stry233/Automated-Breast-Cancer-Diagnosis-Using-Medical-Image-Analysis-with-Deep-Learning"/></a>
-  <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Stars" 
 </p>
 
 
