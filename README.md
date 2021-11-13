@@ -40,19 +40,20 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 <span id="nav-2-1"></span>
 
 ## Graphics
+![image](https://user-images.githubusercontent.com/31975605/141656669-257f4054-80cb-453b-82e6-10c007fe0159.png)
 
 ## Data availability
 1. The **Bre**ast **Ca**ncer **H**istopathological **A**nnotation and **D**iagnosis dataset (BreCaHAD)
 
   | Types                           | # of Annotations                                              |
-  | :---                               |    :----:                                                 |
-  | Mitosis                    | 115                                 |
-  | Apoptosis                 | 271|
-  | Tumor nuclei  | 20155                       |
-  | Non-tumor nuclei    | 1905                                               |
-  | Tubule  | 493                       |
-  | Non-tubule       | 610                       |
-  | Total                      | 23549                                              |	
+  | :---                            |    :----:                                                     |
+  | Mitosis                         | 115                                                           |
+  | Apoptosis                       | 271                                                           |
+  | Tumor nuclei                    | 20155                                                         |
+  | Non-tumor nuclei                | 1905                                                          |
+  | Tubule                          | 493                                                           |
+  | Non-tubule                      | 610                                                           |
+  | Total                           | 23549                                                         |	
 
 
 
