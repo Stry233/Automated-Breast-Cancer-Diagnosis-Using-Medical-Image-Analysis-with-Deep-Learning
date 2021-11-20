@@ -13,7 +13,7 @@ In this case, it is critical that develop a program to help doctors locating the
  
 
 ## Table of Contents
-
+<span id="nav-1"></span>
 <details open="open">
   <summary>Click me to Open/Close the directory listing</summary>
 
@@ -28,23 +28,24 @@ In this case, it is critical that develop a program to help doctors locating the
 
 </details>
 
-<span id="nav-1"></span>
+
 
 ## Introductions
-
-<!-- Fill in the detailed introduction about your project here -->
 
 <span id="nav-2"></span>
 
 ### Background
-Breast cancer is a type of malignant tumor with the highest morbidity among women worldwide, which seriously endangers women's health. Besides, most breast cancers are invasive ductal carcinomas (IDC). Like a malignant tumor, breast cancers affect more than 2.5 million people worldwide. In China, 6.6% of the 2,099,000 affected individuals in 2018 died, significantly exceeding the same prevalent cancers like prostate cancer (3.8%) and colon cancer (5.8%). Because of the incidence of breast cancer among women in the eastern and central regions of China ranks first, accurately identifying and categorizing IDC and proposing treatment plans become an essential clinical task. With the development of technology, it is possible to use a computer program to determine if tumor benign or malignant with tumor section images, which can effectively decrease the probability of misdiagnosis. In this case, it is critical that develop a program to help doctors locating the tumor and start treatment as early as possible. What our goal is developing a computer program which can identify and label breast cancer cells in the tumor section image with high accuracy.
 <span id="nav-2-1"></span>
+Breast cancer is a type of malignant tumor with the highest morbidity among women worldwide, which seriously endangers women's health. Besides, most breast cancers are invasive ductal carcinomas (IDC). Like a malignant tumor, breast cancers affect more than 2.5 million people worldwide. In China, 6.6% of the 2,099,000 affected individuals in 2018 died, significantly exceeding the same prevalent cancers like prostate cancer (3.8%) and colon cancer (5.8%). Because of the incidence of breast cancer among women in the eastern and central regions of China ranks first, accurately identifying and categorizing IDC and proposing treatment plans become an essential clinical task. With the development of technology, it is possible to use a computer program to determine if tumor benign or malignant with tumor section images, which can effectively decrease the probability of misdiagnosis. In this case, it is critical that develop a program to help doctors locating the tumor and start treatment as early as possible. What our goal is developing a computer program which can identify and label breast cancer cells in the tumor section image with high accuracy.
+
 
 ## Graphics
-![image](https://user-images.githubusercontent.com/31975605/141656669-257f4054-80cb-453b-82e6-10c007fe0159.png)
 <span id="nav-3"></span>
+![image](https://user-images.githubusercontent.com/31975605/141656669-257f4054-80cb-453b-82e6-10c007fe0159.png)
+
 
 ## Data availability
+<span id="nav-4"></span>
 1. The **Bre**ast **Ca**ncer **H**istopathological **A**nnotation and **D**iagnosis dataset (BreCaHAD)
 
   | Types                           | # of Annotations                                              |
@@ -57,10 +58,10 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
   | Non-tubule                      | 610                                                           |
   | Total                           | 23549                                                         |	
 
-<span id="nav-4"></span>
 
 
 ## Contributors
+ <span id="nav-5"></span>
   
   | Tasks                              | Contributors                                              |
   | :---                               |    :----:                                                 |
@@ -73,12 +74,14 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
   | Vitualization                      | Stephen Chen                                              |	
   | Vitualization                      | Stephen Chen                                              |	
 
-<span id="nav-5"></span>
+
 
 ## Special Thanks
-We would like to thank Professor Manolis Kellis for his guidance in model selection
 <span id="nav-6"></span>
+We would like to thank Professor Manolis Kellis for his guidance in model selection
+
 
 ## License
-[License MIT](LICENSE)
 <span id="nav-7"></span>
+[License MIT](LICENSE)
+
