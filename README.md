@@ -21,7 +21,7 @@ In this case, it is critical that develop a program to help doctors locating the
 - [Introductions](#nav-2)
   - [Background](#nav-2-1)
 - [Graphics](#nav-3)
-- [Features](#nav-4)
+- [Data availability](#nav-4)
 - [Contributors](#nav-5)
 - [Special Thanks](#nav-6)
 - [License](#nav-7)
@@ -42,6 +42,7 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
 
 ## Graphics
 ![image](https://user-images.githubusercontent.com/31975605/141656669-257f4054-80cb-453b-82e6-10c007fe0159.png)
+<span id="nav-3"></span>
 
 ## Data availability
 1. The **Bre**ast **Ca**ncer **H**istopathological **A**nnotation and **D**iagnosis dataset (BreCaHAD)
@@ -56,6 +57,7 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
   | Non-tubule                      | 610                                                           |
   | Total                           | 23549                                                         |	
 
+<span id="nav-4"></span>
 
 
 ## Contributors
@@ -71,11 +73,12 @@ Breast cancer is a type of malignant tumor with the highest morbidity among wome
   | Vitualization                      | Stephen Chen                                              |	
   | Vitualization                      | Stephen Chen                                              |	
 
-<span id="nav-4"></span>
+<span id="nav-5"></span>
 
 ## Special Thanks
 We would like to thank Professor Manolis Kellis for his guidance in model selection
-<span id="nav-5"></span>
+<span id="nav-6"></span>
 
 ## License
 [License MIT](LICENSE)
+<span id="nav-7"></span>
